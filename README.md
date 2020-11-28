@@ -11,8 +11,9 @@ Chrome  FireFox  Edge  Ie  ChromeOptions
 ###### 浏览器驱动下载
 [下载地址](https://www.cnblogs.com/XhyTechnologyShare/p/13830293.html)
 ###### 项目运行
-执行main目录下的main.py文件;
-运行原理：通过调用pytest命令运行,pytest将会自动检索该项目的测试用例文件并执行,所以编写测试用例文件时一定要按照规则编写。
+- 执行main目录下的main.py文件;
+- 项目运行完之后需要启动测试报告allure的服务,需要提前安装allure的客户端[安装教程](https://www.cnblogs.com/XhyTechnologyShare/p/12268119.html)
+- 运行原理：通过调用pytest命令运行,pytest将会自动检索该项目的测试用例文件并执行,所以编写测试用例文件时一定要按照规则编写。
 ###### 测试用例文件编写规则
 - 模块命名必须以test开头
 - 类命名必须以Test开头 
@@ -73,6 +74,8 @@ Chrome  FireFox  Edge  Ie  ChromeOptions
 ###### 版本说明
 当前版本：v1.0
 ###### 后续版本
-后续会更新一些demo上来,不会更新版本;框架结构变动时才会更新版本
+- 项目后期会根据主流的技术或设计方式进行修改;
+- 后续会更新一些demo上来,不会更新版本;
+- 框架结构变动时才会更新版本
 ###### 联系我
-想参与一起创作的小伙伴可以联系我 
+想参与一起创作的小伙伴可以联系我[博客地址](https://home.cnblogs.com/u/XhyTechnologyShare/)
