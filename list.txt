@@ -1,0 +1,58 @@
+卷 Windows 的文件夹 PATH 列表
+卷序列号为 283B-2558
+D:.
+│  list.txt
+│  pytest.ini
+│  README.md
+│  __init__.py
+│  
+├─case
+│      conftest.py
+│      test_RegisterCase.py
+│      __init__.py
+│      
+├─config
+│      config_box.py
+│      CsvOperation.py
+│      IniOperation.py
+│      LogOperation.py
+│      UtilsOperation.py
+│      YamlOperation.py
+│      __init__.py
+│      
+├─main
+│      main.py
+│      __init__.py
+│      
+├─page
+│      RegisterPage.py
+│      __init__.py
+│      
+├─resources
+│  ├─conf
+│  │      config.ini
+│  │      
+│  └─elementSource
+│          register.yaml
+│          
+├─result
+│  ├─log
+│  │      log.log
+│  │      
+│  ├─report
+│  │      1653913e-6816-42af-b9dd-c92c88160cfd-container.json
+│  │      333b0432-a625-4412-b5ab-bfa5bd4787c1-container.json
+│  │      3b37aa23-7212-47e7-9df7-f34f5efd5947-attachment.png
+│  │      44d82816-fe1b-437e-af88-24604df4653d-attachment.txt
+│  │      68ca2441-d427-489b-98d4-d15d009ca6aa-attachment.txt
+│  │      9928720f-46b9-4b7f-848a-348f2fa1e262-result.json
+│  │      ee73af15-58be-411b-917e-078664606749-container.json
+│  │      fc515436-3388-4e17-92df-e67d601fd3b1-container.json
+│  │      
+│  └─screenshot
+│          2020-11-28-15-20-43.png
+│          
+└─service
+        RegisterService.py
+        __init__.py
+        

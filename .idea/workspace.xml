@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1aa45a7-5089-4c50-8436-087303619afb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/McenterSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/debug.log" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kuHL8O7OMT8ucSkkvtwTjv1vgg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="McenterSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1aa45a7-5089-4c50-8436-087303619afb" name="Default Changelist" comment="" />
+      <created>1606543498060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606543498060</updated>
+    </task>
+    <task id="LOCAL-00001" summary="更新了框架案例">
+      <created>1606548171722</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606548171722</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新了README文件">
+      <created>1606550173581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606550173581</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新了框架案例" />
+    <MESSAGE value="更新了README文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新了README文件" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606543810181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606543810181" />
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1606553561500">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1606553561500" />
+    <state x="447" y="104" key="FileChooserDialogImpl" timestamp="1606553556949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606553556949" />
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom" timestamp="1606550083753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606550083753" />
+    <state width="1345" height="2" key="GridCell.Tab.0.center" timestamp="1606550083753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606550083753" />
+    <state width="1345" height="2" key="GridCell.Tab.0.left" timestamp="1606550083753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606550083753" />
+    <state width="1345" height="2" key="GridCell.Tab.0.right" timestamp="1606550083753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606550083753" />
+    <state x="129" y="61" key="MergeDialog" timestamp="1606550111482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="61" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1606550111482" />
+    <state x="392" y="80" key="MultipleFileMergeDialog" timestamp="1606550111494">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="392" y="80" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1606550111494" />
+    <state x="17" y="13" key="SettingsEditor" timestamp="1606551522143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="17" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606551522143" />
+    <state x="534" y="264" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1606550115375">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="264" key="git4idea.rebase.GitUnstructuredEditor/0.0.1366.728@0.0.1366.728" timestamp="1606550115375" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606552584438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606552584438" />
+  </component>
+</project>
