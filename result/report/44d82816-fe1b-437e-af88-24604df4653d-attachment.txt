@@ -1,0 +1,9 @@
+INFO     root:LogOperation.py:46 -------------------- 测试开始：Terminal:Chrome URL:http://buxiubuzhi:9999/ --------------------
+INFO     root:LogOperation.py:46 -------------------- 进入注册页面 --------------------
+INFO     root:LogOperation.py:46 -------------------- 输入账号：account2011281520 --------------------
+INFO     root:LogOperation.py:46 -------------------- 输入用户名：account2011281520 --------------------
+INFO     root:LogOperation.py:46 -------------------- 输入密码：123456 --------------------
+INFO     root:LogOperation.py:46 -------------------- 在次输入密码：123456 --------------------
+INFO     root:LogOperation.py:46 -------------------- 输入安全问题：问题 --------------------
+INFO     root:LogOperation.py:46 -------------------- 输入答案：答案 --------------------
+INFO     root:LogOperation.py:46 -------------------- 点击提交 --------------------

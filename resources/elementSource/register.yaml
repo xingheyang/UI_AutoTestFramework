@@ -1,0 +1,8 @@
+REGISTER: /view/register.html
+ACCOUNT: x,//*[@id="account"]/input
+USERNAME: x,/html/body/div/div/div/form/div[2]/input
+PASSWORD: x,/html/body/div/div/div/form/div[3]/input
+REPASSWORD: x,/html/body/div/div/div/form/div[4]/input
+ISSUE: x,/html/body/div/div/div/form/div[5]/input
+ANSWER: x,/html/body/div/div/div/form/div[6]/input
+SUBMIT: x,/html/body/div/div/div/form/div[7]/button
