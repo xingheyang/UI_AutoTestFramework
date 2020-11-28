@@ -1,6 +1,6 @@
 # project  :Python_Script
 # -*- coding = UTF-8 -*-
-# Autohr   :XingHeYang
+# Autohr   :buxiubuzhi
 # File     :config_box.py
 # time     :2020/2/13  14:44
 # Describe :
